@@ -1,0 +1,5 @@
+version: STSv1
+mode: testing
+mx: d242171.a.ess.uk.barracudanetworks.com
+mx: d242171.b.ess.uk.barracudanetworks.com
+max_age: 86401
